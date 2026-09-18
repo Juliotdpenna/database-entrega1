@@ -1,6 +1,6 @@
 **Integrantes do grupo:**
-- * Júlio César Pereira da Silva
-- * Luana Silva Rocha dos Santos
+-  Júlio César Pereira da Silva
+-  Luana Silva Rocha dos Santos
 
 # Entrega 1 — Modelo Conceitual (DER)
 
