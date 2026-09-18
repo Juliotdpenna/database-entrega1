@@ -26,8 +26,7 @@
 - **Principais processos mapeados:** *captação/entrada do aluno, cadastro de alunos, assinatura de contratos, vendas ou arrecadação, emissão de contratos, armazenamento de contratos, formalização do contrato, suporte ao aluno, integração com CRM.*  
 - **Fluxogramas:***.*
 
- ![][image1]  
-![][image2]  
+Imagens dos Fluxogramas: [Acessar pasta img](./img)   
 ---
 
 ## 3\. Requisitos do Sistema
@@ -131,7 +130,7 @@
 
 ## 7\. Diagrama Entidade-Relacionamento (DER)
 
-*![][image3]*
+Imagem do DER: [Acessar pasta img](./img)
 
 ---
 
