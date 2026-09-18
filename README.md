@@ -1,3 +1,7 @@
+**Integrantes do grupo:**
+-  Júlio César Pereira da Silva
+-  Luana Silva Rocha dos Santos
+
 # Entrega 1 — Modelo Conceitual (DER)
 
 ### Modelagem de um sistema de gestão de informações para uma organização de pequeno porte
@@ -60,7 +64,7 @@
 | Atributo | Descrição | Regra de negócio associada |
 | :---- | :---- | :---- |
 | *idAluno* | *Identificador único do aluno.* | *Chave primária, preenchimento automático, obrigatório e único.* |
-| *nomeCompleto* | *Nome completo do estudante.* | *Campo obrigatório.* |
+| *nomeCompleto* | *Nome social do estudante.* | *Campo obrigatório.* |
 | *email* | *Endereço de e-mail de contato e acesso.* | *Campo obrigatório e único; utilizado para autenticação.* |
 | *cpf* | *Número do Cadastro de Pessoas Físicas.* | *Campo obrigatório, único e validado para fins cadastrais e contratuais.* |
 | *rg* | *Registro Geral (documento de identidade).* | *Campo obrigatório para validação documental.* |
