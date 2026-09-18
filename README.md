@@ -1,3 +1,7 @@
+**Integrantes do grupo:**
+- * Júlio César Pereira da Silva
+- * Luana Silva Rocha dos Santos
+
 # Entrega 1 — Modelo Conceitual (DER)
 
 ### Modelagem de um sistema de gestão de informações para uma organização de pequeno porte
